@@ -1,0 +1,105 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Status Category
+Help|| Functionality: Cancellation & Returns link is not working,SHOP-77,10076,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,16-02-2023 11:04,28-02-2023 15:17,28-02-2023 15:16,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Scroll down and Click on [Cancellation & Returns|https://shoppersstack.com/] link under Help
+
+Observation:
+
+[Cancellation & Returns|https://shoppersstack.com/] link is not working.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,16/Feb/23 11:03 AM;63d9e6981b13d42998e12ada;Screenshot (238).png;https://shoppersstackv.atlassian.net/secure/attachment/10062/Screenshot+%28238%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000gn:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Help|| Functionality:  Shipping link is not working,SHOP-76,10075,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,16-02-2023 11:01,28-02-2023 15:17,28-02-2023 15:17,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Scroll down and Click on [Shipping|https://shoppersstack.com/] link under Help
+
+Observation:
+
+[Shipping|https://shoppersstack.com/] link is not working.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,16/Feb/23 11:00 AM;63d9e6981b13d42998e12ada;Screenshot (238).png;https://shoppersstackv.atlassian.net/secure/attachment/10061/Screenshot+%28238%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000gf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Help|| Functionality:  Payments link is not working,SHOP-75,10074,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,16-02-2023 10:58,28-02-2023 15:17,28-02-2023 15:17,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Scroll down and Click on Payments link under Help
+
+Observation:
+
+Payments link is not working.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,16/Feb/23 10:58 AM;63d9e6981b13d42998e12ada;Screenshot (238).png;https://shoppersstackv.atlassian.net/secure/attachment/10060/Screenshot+%28238%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000g7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+About|| Functionality: Corporate Information link is not working,SHOP-74,10073,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,16-02-2023 10:54,28-02-2023 15:17,28-02-2023 15:17,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Scroll down and Click on [Corporate Information|https://shoppersstack.com/] link
+
+Observation:
+
+[Corporate Information|https://shoppersstack.com/] link is not working.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,16/Feb/23 10:53 AM;63d9e6981b13d42998e12ada;Screenshot (238).png;https://shoppersstackv.atlassian.net/secure/attachment/10059/Screenshot+%28238%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000fz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+About|| Functionality: ShoppersStack Wholesale link is not working.,SHOP-39,10038,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,08-02-2023 10:37,28-02-2023 15:25,28-02-2023 15:25,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Click on [ShoppersStack Wholesale|https://shoppersstack.com/] link
+
+Observation:
+
+[ShoppersStack Wholesale|https://shoppersstack.com/] link is not working.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,08/Feb/23 10:36 AM;63d9e6981b13d42998e12ada;Screenshot (216).png;https://shoppersstackv.atlassian.net/secure/attachment/10021/Screenshot+%28216%29.png,,,,,,,,,,,,,,,,0|i00087:,,SHOP Sprint 3,,,,,,,,,,To Do
+About|| Functionality: Press link is not working.,SHOP-38,10037,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,08-02-2023 10:27,28-02-2023 15:26,28-02-2023 15:25,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Click on Press link
+
+Observation:
+
+Press link is not working.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,08/Feb/23 10:27 AM;63d9e6981b13d42998e12ada;Screenshot (216).png;https://shoppersstackv.atlassian.net/secure/attachment/10020/Screenshot+%28216%29.png,,,,,,,,,,,,,,,,0|i0007z:,,SHOP Sprint 3,,,,,,,,,,To Do
+About||Functionality:ShoppersStack Stories link is not working,SHOP-37,10036,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,08-02-2023 10:19,28-02-2023 15:26,28-02-2023 15:26,,,0,ShoppersLogin,"Steps to reproduce the defect:
+
+1 Open the chrome browser (Version 109.0.5414.120) enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Click on ShoppersStack Stories link
+
+Observation:
+
+ShoppersStack Stories link is not working",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,08/Feb/23 10:17 AM;63d9e6981b13d42998e12ada;Screenshot (216).png;https://shoppersstackv.atlassian.net/secure/attachment/10019/Screenshot+%28216%29.png,,,,,,,,,,,,,,,,0|i0007r:,,SHOP Sprint 3,,,,,,,,,,In Progress
+About||Functionality:Careers link it is not working,SHOP-32,10031,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,04-02-2023 10:58,28-02-2023 15:26,28-02-2023 15:26,,,0,ShoppersLogin,"steps to reproduce the defect:
+
+1 open the chrome browser (Version 109.0.5414.120) enter the url [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 click on Careers link
+
+observation:
+
+Careers link it is not working",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,04/Feb/23 10:58 AM;63d9e6981b13d42998e12ada;Screenshot (210).png;https://shoppersstackv.atlassian.net/secure/attachment/10016/Screenshot+%28210%29.png,,,,,,,,,,,,,,,,0|i0006v:,,SHOP Sprint 3,,,,,,,,,,In Progress
+About||Functionality:About Us link it is not working,SHOP-31,10030,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,04-02-2023 10:53,28-02-2023 15:26,28-02-2023 15:26,,,0,ShoppersLogin,"steps to reproduce the defect:
+
+1 open the chrome browser (Version 109.0.5414.120) enter the url [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 click on About Us link
+
+observation:
+
+About Us link it is not working",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,04/Feb/23 10:53 AM;63d9e6981b13d42998e12ada;Screenshot (210).png;https://shoppersstackv.atlassian.net/secure/attachment/10015/Screenshot+%28210%29.png,,,,,,,,,,,,,,,,0|i0006n:,,SHOP Sprint 3,,,,,,,,,"28/Feb/23 11:33 AM;63d9e6981b13d42998e12ada;**About Reopening The Defect**
+
+Since This Defect Is Not Fixed Yet,  About Us Link Is Still Not Working
+Kindly ReCheck Once and Fix It
+
+*Thank You*",To Do
+About|| Functionality: Contact Us link is not working,SHOP-30,10029,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,04-02-2023 10:50,28-02-2023 15:27,28-02-2023 15:26,,,0,ShoppersLogin,"steps to reproduce the defect:
+
+1 open the chrome browser (Version 109.0.5414.120) enter the url [https://shoppersstack.com/|https://shoppersstack.com/]
+
+2 click on Contact Us link
+
+observation:
+
+Contact Us link it is not working",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,04/Feb/23 10:49 AM;63d9e6981b13d42998e12ada;Screenshot (210).png;https://shoppersstackv.atlassian.net/secure/attachment/10014/Screenshot+%28210%29.png,,,,,,,,,,,,,,,,0|i0006f:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"Home||Functionality:in home page ""shop products"" button is not working",SHOP-17,10016,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Highest,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,02-02-2023 10:00,28-02-2023 15:30,28-02-2023 15:30,,,0,ShoppersLogin,"steps to reproduce:
+
+1 open the chrome browser (version 109.0.5414.120)and enter the test url [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 click on shop products button
+
+observation:
+
+shop products button is not working",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,02/Feb/23 9:56 AM;63d9e6981b13d42998e12ada;Screenshot (199).png;https://shoppersstackv.atlassian.net/secure/attachment/10002/Screenshot+%28199%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0003j:,,SHOP Sprint 3,,,,,,,,,,In Progress

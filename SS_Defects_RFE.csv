@@ -1,0 +1,114 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Status Category
+MyLikes||RFE|| Provide Cancel Icon For All The Sub Categories,SHOP-139,10138,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,27-02-2023 15:42,28-02-2023 16:04,28-02-2023 16:09,,,0,RFE,"*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Open the chrome browser and enter test URL
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link]
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+2.click on Login button 
+
+3.click on account settings icon
+
+4.click on my Likes
+
+*TEST DATA:*
+
+Some Subcategories Should Be Added and Displayed
+
+*RFE:*
+
+Assume User have added 3 subcategories under a category , now user wants to remove only the 1st subcategory, it should be possible 
+
+But now in the application if user wants to remove single subcategory it is not possible , all options will be removed.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,27/Feb/23 3:41 PM;63d9e6981b13d42998e12ada;Screenshot (297).png;https://shoppersstackv.atlassian.net/secure/attachment/10121/Screenshot+%28297%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000uf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyOrders||RFE|| If User Wants to Cancel The Order , Should Provide Reason For Cancellation",SHOP-137,10136,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,27-02-2023 15:23,28-02-2023 16:04,28-02-2023 16:09,,,0,RFE,"*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Open the chrome browser and enter test URL
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link]
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+2. click on Login button 
+
+3.click on account settings icon
+
+4.click on my orders
+
+5.click on cancel order button, product  will be cancelled
+
+*RFE:*
+
+If User Wants to Cancel The Order , Should Provide Reason For Cancellation",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000tz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"BuyNow||RFE|| If User Wants To Buy The Product First He Has To Add The Product Into Cart , Allow Him To Buy Directly Also",SHOP-47,10046,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,11-02-2023 13:18,20-02-2023 11:17,28-02-2023 16:07,,,0,RFE,"Steps To Reproduce Defect:
+
+1 open the chrome browser (Version 110.0.5481.78) and enter the Test URL [https://shoppersstack.com/payment-options|https://shoppersstack.com/payment-options|smart-link] 
+
+2 select a product and click on buy now button
+
+3 select delivery address and click on proceed
+
+4 select cash on delivery and click on proceed
+
+observation:
+
+User Wants To Buy The Product First He Has To Add The Product Into Cart
+
+RFE:
+
+If user wants buy the product allow him to buy directly also dont force user to add the product to cart",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,11/Feb/23 1:17 PM;63d9e6981b13d42998e12ada;Screenshot (222).png;https://shoppersstackv.atlassian.net/secure/attachment/10027/Screenshot+%28222%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0009z:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Compare||RFE||when user clicks on compare it is going for flipcart home/login page insted of going for respective product page,SHOP-28,10027,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,04-02-2023 10:06,28-02-2023 11:46,28-02-2023 16:09,,,0,RFE,"Steps to reproduce the defect:
+
+1 open the chrome browser(Version 109.0.5414.120)and enter the test URL [https://shoppersstack.com/|https://shoppersstack.com/]
+
+2 login as a shopper
+
+email: [chandushwetha01@gmail.com|mailto:chandushwetha01@gmail.com]
+
+pwd: Shopper@1254
+
+3 select a product and goto product description page 
+
+4 click on compare icon
+
+
+
+observations:
+
+when user clicks on compare , he wants to compare the product in shioppersstack with the same product in flipkart , so better if it is going for respective product page 
+
+but it is going for flipkart home/login page
+
+
+
+NOTE: it is an RFE",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,04/Feb/23 10:06 AM;63d9e6981b13d42998e12ada;Screenshot (209).png;https://shoppersstackv.atlassian.net/secure/attachment/10012/Screenshot+%28209%29.png,,,,,,,,,,,,,,,,0|i0005z:,,SHOP Sprint 3,,,,,,,,,,To Do
+"Cart||RFE||If user is not logged in and trying to add product to cart it will goto login page , once after login it is going for home page.",SHOP-27,10026,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,04-02-2023 09:46,28-02-2023 15:27,28-02-2023 16:09,,,0,RFE,"Steps to reproduce defect:
+
+1 open the chrome browser (Version 109.0.5414.120) and enter the test URL [https://shoppersstack.com/|https://shoppersstack.com/]
+
+2 select a product and click on add to cart 
+
+3 shoppers login page will display
+
+4 enter valid email and password and click on login button
+
+email: [chandushwetha01@gmail.com|mailto:chandushwetha01@gmail.com]
+
+pwd: Shopper@1254
+
+5 home page will display
+
+
+
+observations:
+
+when user trying to add a product to cart without login  it leads to login page once after logged in it should go to same product page insted of going to home page 
+
+
+
+NOTE: it is an RFE",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,04/Feb/23 9:45 AM;63d9e6981b13d42998e12ada;Screenshot (207).png;https://shoppersstackv.atlassian.net/secure/attachment/10011/Screenshot+%28207%29.png,04/Feb/23 9:45 AM;63d9e6981b13d42998e12ada;Screenshot (208).png;https://shoppersstackv.atlassian.net/secure/attachment/10010/Screenshot+%28208%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0005r:,,SHOP Sprint 3,,,,,,,,,,In Progress

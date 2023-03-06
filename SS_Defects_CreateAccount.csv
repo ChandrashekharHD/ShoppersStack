@@ -1,0 +1,111 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Status Category
+Email TextBox||Functionality|| Email text box is accepting combination of special characters and Numbers with mail id format.,SHOP-67,10066,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,15-02-2023 11:18,28-02-2023 15:21,28-02-2023 15:21,,,0,CreateAccount,"Steps to Reproduce the defect:
+
+# Open the chrome  Browser.
+# Enter the test URL [https://shoppersstack.com/signup|https://shoppersstack.com/signup|smart-link] .
+# Click on Login Button.
+4.click on shoppers login
+5.click on ""create account"" button
+6.click on ""Email"" text field 
+# enter special characters with email id format  #$%123@gmail.com
+
+Observations:
+
+It is accepting",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,15/Feb/23 11:17 AM;63d9e6981b13d42998e12ada;Screenshot (235).png;https://shoppersstackv.atlassian.net/secure/attachment/10049/Screenshot+%28235%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000ef:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Email TextBox||Functionality|| Email text box is accepting combination of special characters and Alphabets with mail id format.,SHOP-66,10065,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,15-02-2023 11:14,28-02-2023 15:21,28-02-2023 15:21,,,0,CreateAccount,"Steps to Reproduce the defect:
+
+# Open the chrome  Browser.
+# Enter the test URL [https://shoppersstack.com/signup|https://shoppersstack.com/signup|smart-link] .
+# Click on Login Button.
+4.click on shoppers login
+5.click on ""create account"" button
+6.click on ""Email"" text field 
+# enter special characters with email id format  #$adv%@gmail.com
+
+Observations:
+
+It is accepting",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,15/Feb/23 11:14 AM;63d9e6981b13d42998e12ada;Screenshot (234).png;https://shoppersstackv.atlassian.net/secure/attachment/10048/Screenshot+%28234%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000e7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Email TextBox||Functionality|| Email text box is accepting special characters with mail id format.,SHOP-65,10064,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,15-02-2023 11:11,28-02-2023 15:22,28-02-2023 15:22,,,0,CreateAccount,"Steps to Reproduce the defect:
+
+# Open the chrome  Browser.
+# Enter the test URL [https://shoppersstack.com/signup|https://shoppersstack.com/signup|smart-link] .
+# Click on Login Button.
+4.click on shoppers login
+5.click on ""create account"" button
+6.click on ""Email"" text field 
+# enter special characters with email id format  #$%@gmail.com
+
+Observations:
+
+It is accepting",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,15/Feb/23 11:10 AM;63d9e6981b13d42998e12ada;Screenshot (233).png;https://shoppersstackv.atlassian.net/secure/attachment/10047/Screenshot+%28233%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000dz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+PhoneNumber||Functionality||Phone Number text field is accpting invalid 10 digit number also,SHOP-64,10063,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,15-02-2023 10:53,28-02-2023 15:22,28-02-2023 15:22,,,0,CreateAccount,"Steps To Reproduce the defect:
+
+# Open the chrome Browser.
+# Enter the test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+# Click on Login Button.
+4.click on shoppers login
+5.click on ""create account"" button
+6.click on ""Phone Number"" text field 
+# enter invalid 10 digit number like 0000000000
+
+Observations:
+
+it is accepting",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,15/Feb/23 10:53 AM;63d9e6981b13d42998e12ada;Screenshot (232).png;https://shoppersstackv.atlassian.net/secure/attachment/10046/Screenshot+%28232%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000dr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Terms&Conditions||Functionality||Language used in Terms&Conditions page is not understandable,SHOP-55,10054,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,14-02-2023 17:17,28-02-2023 15:23,28-02-2023 15:22,,,0,CreateAccount,"Steps To Reproduce Defect:
+
+# Open the chrome  Browser(Version 110.0.5481.97).
+# Enter the test URL. [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+# Click on Login Button.
+# click on shoppers login
+# click on ""create account"" button
+# click on ""Terms&Conditions"" link
+# check the content
+
+Observation:
+
+Language used in Terms&Conditions page is not understandable",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,14/Feb/23 5:17 PM;63d9e6981b13d42998e12ada;Screenshot (230).png;https://shoppersstackv.atlassian.net/secure/attachment/10037/Screenshot+%28230%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000br:,,SHOP Sprint 3,,,,,,,,,,In Progress
+LastName||Functionality||Last Name Text Box is Accepting 21 Alphabets,SHOP-54,10053,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,14-02-2023 13:36,28-02-2023 15:23,28-02-2023 15:23,,,0,CreateAccount,"Steps To Reproduce Defect:
+
+# Open the chrome  Browser(Version 110.0.5481.97).
+# Enter the test URL. [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+# Click on Login Button.
+# click on shoppers login
+# click on ""create account"" button
+# click on ""Last Name"" text field 
+# enter 21 alpahabets  
+
+Observation:
+
+It is accepting.
+
+NOTE: It is not throwing Proper Error Message Also",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,14/Feb/23 1:35 PM;63d9e6981b13d42998e12ada;Screenshot (228).png;https://shoppersstackv.atlassian.net/secure/attachment/10036/Screenshot+%28228%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000bj:,,SHOP Sprint 3,,,,,,,,,,In Progress
+FirstName||Functionality||First Name Text Box is Accepting 21 Alphabets,SHOP-53,10052,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,14-02-2023 13:04,28-02-2023 15:23,28-02-2023 15:23,,,0,CreateAccount,"Steps To Reproduce Defect:
+
+# Open the chrome  Browser(Version 110.0.5481.97).
+# Enter the test URL. [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+# Click on Login Button.
+# click on shoppers login
+# click on ""create account"" button
+# click on ""First Name"" text field 
+# enter 21 alpahabets  
+
+Observation:
+
+It is accepting.
+
+NOTE: It is not throwing Proper Error Message Also",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,14/Feb/23 1:04 PM;63d9e6981b13d42998e12ada;Screenshot (227).png;https://shoppersstackv.atlassian.net/secure/attachment/10035/Screenshot+%28227%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000bb:,,SHOP Sprint 3,,,,,,,,,,In Progress
+SignUp||Functionality:Doing Actions on Password text field view icon is affecting Confirm Password text field View icon.,SHOP-36,10035,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,08-02-2023 10:09,28-02-2023 15:26,28-02-2023 15:26,,,0,CreateAccount,"Steps To Reproduce Defect:
+
+1 open the chrome browser (Version 109.0.5414.120) and enter the test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 click on login button
+
+3 click on create account button
+
+4 click on password text field view icon
+
+
+
+observations:
+
+1 Doing actions on Password text field view icon is affecting Confirm Password text field View icon.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,08/Feb/23 10:08 AM;63d9e6981b13d42998e12ada;Screenshot (214).png;https://shoppersstackv.atlassian.net/secure/attachment/10017/Screenshot+%28214%29.png,08/Feb/23 10:08 AM;63d9e6981b13d42998e12ada;Screenshot (215).png;https://shoppersstackv.atlassian.net/secure/attachment/10018/Screenshot+%28215%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0007j:,,SHOP Sprint 3,,,,,,,,,,In Progress

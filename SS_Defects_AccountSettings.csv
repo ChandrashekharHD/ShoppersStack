@@ -1,0 +1,1160 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates)2,Outward issue link (Relates),Outward issue link (Relates)3,Attachment,Attachment4,Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Status Category
+MyLikes||RFE|| Provide Cancel Icon For All The Sub Categories,SHOP-139,10138,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,27-02-2023 15:42,28-02-2023 15:06,28-02-2023 15:35,,,0,AccountSettings,"*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Open the chrome browser and enter test URL
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link]
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+2.click on Login button 
+
+3.click on account settings icon
+
+4.click on my Likes
+
+*TEST DATA:*
+
+Some Subcategories Should Be Added and Displayed
+
+*RFE:*
+
+Assume User have added 3 subcategories under a category , now user wants to remove only the 1st subcategory, it should be possible 
+
+But now in the application if user wants to remove single subcategory it is not possible , all options will be removed.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,27/Feb/23 3:41 PM;63d9e6981b13d42998e12ada;Screenshot (297).png;https://shoppersstackv.atlassian.net/secure/attachment/10121/Screenshot+%28297%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000uf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyOrders||RFE|| If User Wants to Cancel The Order , Should Provide Reason For Cancellation",SHOP-137,10136,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,27-02-2023 15:23,28-02-2023 15:06,28-02-2023 15:35,,,0,AccountSettings,"*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Open the chrome browser and enter test URL
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link]
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+2. click on Login button 
+
+3.click on account settings icon
+
+4.click on my orders
+
+5.click on cancel order button, product  will be cancelled
+
+*RFE:*
+
+If User Wants to Cancel The Order , Should Provide Reason For Cancellation",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000tz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyLikes||Functionality|| When User selects Category and Dont Selects Sub Category It Is Accepting .,SHOP-132,10131,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 12:55,28-02-2023 15:07,28-02-2023 15:35,,,0,AccountSettings,"
+
+*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Likes"" link
+
+4.select a category
+
+5. Dont select any sub category , click on submit and check
+
+*OBSERVATIONS:*
+
+It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 12:54 PM;63d9e6981b13d42998e12ada;Screenshot (290).png;https://shoppersstackv.atlassian.net/secure/attachment/10116/Screenshot+%28290%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000sv:,,SHOP Sprint 3,,,,,,,,,"28/Feb/23 10:58 AM;63d9e6981b13d42998e12ada;**About Reopening The Defect**
+
+Since This Defect Is Not Fixed Yet, User is Still Able To Select and Add Only Category Without SubCategory(Since Both Are Mandatory Fields)
+
+[~accountid:63d89dd98978d7a4353878be] 
+Kindly ReCheck Once and Fix It
+
+*Thank You*",To Do
+"MyAddresses||Functionality|| In Update Address Page ,Phone Number Text Field is Accepting Invalid Phone Numbers .",SHOP-131,10130,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 12:32,28-02-2023 15:07,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Phone Number"" text field and Enter Invalid 10 Digit Phone Number Like 0000000000
+
+6.Update the Adrress
+
+*OBSERVATIONS:*
+
+It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 12:32 PM;63d9e6981b13d42998e12ada;Screenshot (289).png;https://shoppersstackv.atlassian.net/secure/attachment/10115/Screenshot+%28289%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000sn:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,Pincode Text Field is Accepting Invalid Pincode",SHOP-130,10129,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 12:12,28-02-2023 15:07,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Pincode"" text field and Enter Invalid 6 Digit Pincode Like 000000
+
+6.Update the Adrress
+
+*OBSERVATIONS:*
+
+Pincode Text Field is Accepting Invalid Pincode.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 12:11 PM;63d9e6981b13d42998e12ada;Screenshot (287).png;https://shoppersstackv.atlassian.net/secure/attachment/10114/Screenshot+%28287%29.png,24/Feb/23 12:11 PM;63d9e6981b13d42998e12ada;Screenshot (288).png;https://shoppersstackv.atlassian.net/secure/attachment/10113/Screenshot+%28288%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000sf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,When user place cursor on Pincode Text Field It Is not displaying any tool tip.",SHOP-129,10128,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 12:06,28-02-2023 15:08,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Place cursor on ""Pincode"" text field
+
+*OBSERVATIONS:*
+
+In Update Address Page ,When user place cursor on Pincode Text Field It Is not displaying any tool tip.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 12:05 PM;63d9e6981b13d42998e12ada;Screenshot (286).png;https://shoppersstackv.atlassian.net/secure/attachment/10112/Screenshot+%28286%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000s7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,If User Not Selected Any Country and Click on City Drop down Options Are Displaying And It Is Accepting.",SHOP-128,10127,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:57,28-02-2023 15:08,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Click on  country drop down and Unselect the country
+
+6.Click on  City  drop down and Check Options are displayed
+
+7.update the address and check
+
+*OBSERVATIONS:*
+
+ If User Not Selected Any Country and Click on City Drop down Options Are Displaying And It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 11:56 AM;63d9e6981b13d42998e12ada;Screenshot (285).png;https://shoppersstackv.atlassian.net/secure/attachment/10111/Screenshot+%28285%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000rz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page , It Is Taking City Alone Without Country and State.",SHOP-127,10126,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:47,28-02-2023 15:08,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Click on  country drop down and Unselect the country
+
+6.Click on  State  drop down and Dont select any state
+
+7.update the address and check
+
+*OBSERVATIONS:*
+
+ It Is Taking City Alone Without Country and State.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 11:46 AM;63d9e6981b13d42998e12ada;Screenshot (283).png;https://shoppersstackv.atlassian.net/secure/attachment/10110/Screenshot+%28283%29.png,24/Feb/23 11:46 AM;63d9e6981b13d42998e12ada;Screenshot (284).png;https://shoppersstackv.atlassian.net/secure/attachment/10109/Screenshot+%28284%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000rr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page , It Is Taking Different Cities of Different States.",SHOP-126,10125,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:40,28-02-2023 15:08,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Click on  country drop down and select Different country
+
+6.Click on  State  drop down and select a state
+
+7. update the address and check
+
+*OBSERVATIONS:*
+
+ It Is Taking Different Cities of Different States..",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 11:40 AM;63d9e6981b13d42998e12ada;Screenshot (282).png;https://shoppersstackv.atlassian.net/secure/attachment/10108/Screenshot+%28282%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000rj:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page , It Is Taking Different States of Different Countrys.",SHOP-125,10124,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:33,28-02-2023 15:09,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Click on  country drop down and select Different country
+
+6. Update The Address
+
+*OBSERVATIONS:*
+
+It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 11:33 AM;63d9e6981b13d42998e12ada;Screenshot (280).png;https://shoppersstackv.atlassian.net/secure/attachment/10106/Screenshot+%28280%29.png,24/Feb/23 11:33 AM;63d9e6981b13d42998e12ada;Screenshot (281).png;https://shoppersstackv.atlassian.net/secure/attachment/10107/Screenshot+%28281%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000rb:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,If User Left ""City"" DropDown Unselected It is Not Displaying Any Error Message.",SHOP-124,10123,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:23,28-02-2023 15:09,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Select a Country
+
+6.Select a State
+7.Click on ""City"" Drop down and Dont Select any City and check
+
+
+
+*OBSERVATIONS:*
+
+It is Not Displaying Any Error Message..",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 11:22 AM;63d9e6981b13d42998e12ada;Screenshot (279).png;https://shoppersstackv.atlassian.net/secure/attachment/10105/Screenshot+%28279%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000r3:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""City"" DropDown Dont Have Asterisk Symbol",SHOP-123,10122,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:18,28-02-2023 15:09,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Check ""City"" Drop down
+
+*OBSERVATIONS:*
+
+Dont Have Asterisk Symbol.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 11:17 AM;63d9e6981b13d42998e12ada;Screenshot (279).png;https://shoppersstackv.atlassian.net/secure/attachment/10104/Screenshot+%28279%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000qv:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,If User Left ""City"" DropDown Unselected It is Accepting",SHOP-122,10121,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 11:13,28-02-2023 15:09,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Click on  country drop down and select a country
+
+6.Select a state
+6.Click on ""City"" Drop down and Dont Select any City
+
+7.Try To Update The Address
+
+*OBSERVATIONS:*
+
+It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,SHOP-116,SHOP-119,,,24/Feb/23 11:12 AM;63d9e6981b13d42998e12ada;Screenshot (278).png;https://shoppersstackv.atlassian.net/secure/attachment/10103/Screenshot+%28278%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000qn:,,SHOP Sprint 3,,,,,,,,,"28/Feb/23 11:39 AM;63d9e6981b13d42998e12ada;[~accountid:63d89dd98978d7a4353878be] 
+
+Kindly Look Into This Issue",To Do
+"MyAddresses||Functionality|| In Update Address Page ,If User Left ""State"" DropDown Unselected It is Not Displaying Any Error Message.",SHOP-121,10120,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 10:44,28-02-2023 15:09,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Select a Country
+5.Click on ""State"" Drop down and Dont Select any State and check
+
+
+
+*OBSERVATIONS:*
+
+It is Not Displaying Any Error Message..",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 10:44 AM;63d9e6981b13d42998e12ada;Screenshot (277).png;https://shoppersstackv.atlassian.net/secure/attachment/10102/Screenshot+%28277%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000qf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""State"" DropDown Dont Have Asterisk Symbol",SHOP-120,10119,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 10:38,28-02-2023 15:10,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Check ""State"" Drop down
+
+*OBSERVATIONS:*
+
+Dont Have Asterisk Symbol.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 10:37 AM;63d9e6981b13d42998e12ada;Screenshot (276).png;https://shoppersstackv.atlassian.net/secure/attachment/10101/Screenshot+%28276%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000q7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,If User Left ""State"" DropDown Unselected It is Accepting",SHOP-119,10118,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 10:30,28-02-2023 15:10,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+
+5.Click on  country drop down and select a country
+6.Click on ""State"" Drop down and Dont Select any State
+
+7.Try To Update The Address
+
+*OBSERVATIONS:*
+
+It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,SHOP-116,,SHOP-122,,24/Feb/23 10:29 AM;63d9e6981b13d42998e12ada;Screenshot (276).png;https://shoppersstackv.atlassian.net/secure/attachment/10100/Screenshot+%28276%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000pz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,If User Left ""Country"" DropDown Unselected It is Not Displaying Any Error Message.",SHOP-118,10117,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 10:12,28-02-2023 15:10,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Country"" Drop down and Dont Select any Country and check
+
+
+
+*OBSERVATIONS:*
+
+It is Not Displaying Any Error Message..",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 10:12 AM;63d9e6981b13d42998e12ada;Screenshot (275).png;https://shoppersstackv.atlassian.net/secure/attachment/10099/Screenshot+%28275%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000pr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Country"" DropDown Dont Have Asterisk Symbol",SHOP-117,10116,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 10:06,28-02-2023 15:10,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Check ""Country"" Drop down
+
+*OBSERVATIONS:*
+
+Dont Have Asterisk Symbol.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 10:06 AM;63d9e6981b13d42998e12ada;Screenshot (275).png;https://shoppersstackv.atlassian.net/secure/attachment/10098/Screenshot+%28275%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000pj:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,If User Left ""Country""  DropDown Unselected It is Accepting",SHOP-116,10115,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,24-02-2023 10:02,28-02-2023 15:10,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Country"" Drop down and Dont Select any Country
+
+6.Try To Update The Address
+
+*OBSERVATIONS:*
+
+It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,SHOP-119,SHOP-122,24/Feb/23 10:01 AM;63d9e6981b13d42998e12ada;Screenshot (274).png;https://shoppersstackv.atlassian.net/secure/attachment/10097/Screenshot+%28274%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000pb:,,SHOP Sprint 3,,,,,,,,,"28/Feb/23 11:27 AM;63d9e6981b13d42998e12ada;**About Reopening The Defect**
+
+Since This Defect Is Not Fixed Yet, User is Still Able To Update The Address Without Selecting Any Option From Country Dropdown(Since It Is Mandatory)
+
+[~accountid:63d89dd98978d7a4353878be] 
+Kindly ReCheck Once and Fix It
+
+*Thank You*",To Do
+"MyAddresses||Functionality|| In Update Address Page ,""LandMark"" Text Field Is Accepting only spacial characters.",SHOP-115,10114,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,23-02-2023 15:05,28-02-2023 15:11,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""LandMark"" text field and enter only special characters and check
+
+*OBSERVATIONS:*
+
+""LandMark"" Text Field Is Accepting only special characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 9:49 AM;63d9e6981b13d42998e12ada;Screenshot (273).png;https://shoppersstackv.atlassian.net/secure/attachment/10096/Screenshot+%28273%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000p3:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""LandMark"" Text Field Is Accepting only space.",SHOP-113,10112,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,23-02-2023 11:01,28-02-2023 15:11,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""LandMark"" text field and enter only space and check
+
+*OBSERVATIONS:*
+
+""LandMark"" Text Field Is Accepting only space..",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 9:49 AM;63d9e6981b13d42998e12ada;Screenshot (272).png;https://shoppersstackv.atlassian.net/secure/attachment/10095/Screenshot+%28272%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000on:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""LandMark"" Text Field Is Accepting 2 Characters.",SHOP-112,10111,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,23-02-2023 10:36,28-02-2023 15:11,28-02-2023 15:35,,,0,AccountSettings,"*PRE CONDITION:*
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+*STEPS TO REPRODUCE THE DEFECT:*
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""LandMark"" text field and enter 2 characters and check
+
+*OBSERVATIONS:*
+
+""LandMark"" Text Field Is Accepting 2 Characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 9:48 AM;63d9e6981b13d42998e12ada;Screenshot (271).png;https://shoppersstackv.atlassian.net/secure/attachment/10094/Screenshot+%28271%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000of:,,SHOP Sprint 3,,,,,,,,,"28/Feb/23 11:30 AM;63d9e6981b13d42998e12ada;**About Reopening The Defect**
+
+Since This Defect Is Not Fixed Yet,  That Is LandMark TextField Is Still Accepting 2 Characters
+
+[~accountid:63d89dd98978d7a4353878be] 
+Kindly ReCheck Once and Fix It
+
+*Thank You*",To Do
+"MyAddresses||Functionality|| In Update Address Page ,""LandMark"" Text Field Is Accepting 51 Characters",SHOP-111,10110,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,23-02-2023 10:30,28-02-2023 15:11,28-02-2023 15:35,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""LandMark"" text field and enter 51 Characters and check
+
+OBSERVATIONS:
+
+""LandMark"" Text Field Is Accepting 51 Characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 9:48 AM;63d9e6981b13d42998e12ada;Screenshot (270).png;https://shoppersstackv.atlassian.net/secure/attachment/10093/Screenshot+%28270%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000o7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Land Mark"" text field Is Not getting highlighted in red and not displaying proper error message.",SHOP-109,10108,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,23-02-2023 10:25,28-02-2023 15:11,28-02-2023 15:35,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Land Mark"" text field
+6.Remove the data present
+
+
+
+OBSERVATIONS:
+
+""Land Mark"" text field Is Not getting highlighted in red and not displaying proper error message.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,24/Feb/23 9:48 AM;63d9e6981b13d42998e12ada;Screenshot (269).png;https://shoppersstackv.atlassian.net/secure/attachment/10092/Screenshot+%28269%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000nr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Street info"" Text Field Is Accepting only spacial characters.",SHOP-107,10106,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 18:02,28-02-2023 15:12,28-02-2023 15:35,,,0,AccountSettings,"
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Street info"" text field and enter only special characters and check
+
+OBSERVATIONS:
+
+,""Street info"" Text Field Is Accepting only special characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 6:01 PM;63d9e6981b13d42998e12ada;Screenshot (265).png;https://shoppersstackv.atlassian.net/secure/attachment/10090/Screenshot+%28265%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000nb:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Street info"" Text Field Is Accepting only space.",SHOP-106,10105,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:58,28-02-2023 15:12,28-02-2023 15:35,,,0,AccountSettings,"
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Street info"" text field and enter only space and check
+
+OBSERVATIONS:
+
+,""Street info"" Text Field Is Accepting only space.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:58 PM;63d9e6981b13d42998e12ada;Screenshot (264).png;https://shoppersstackv.atlassian.net/secure/attachment/10089/Screenshot+%28264%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000n3:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Street info"" Text Field Is Accepting 2 Characters.",SHOP-105,10104,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:55,28-02-2023 15:12,28-02-2023 15:35,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Street info"" text field and enter 2 alphabets and check
+
+OBSERVATIONS:
+
+""Street info"" Text Field Is Accepting 2 Characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:54 PM;63d9e6981b13d42998e12ada;Screenshot (263).png;https://shoppersstackv.atlassian.net/secure/attachment/10088/Screenshot+%28263%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000mv:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Street info"" Text Field Is Accepting 201 Characters",SHOP-104,10103,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:50,28-02-2023 15:12,28-02-2023 15:35,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Street info"" text field and enter 201 Characters and check
+
+OBSERVATIONS:
+
+""Street info"" Text Field Is Accepting 201 Characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:50 PM;63d9e6981b13d42998e12ada;Screenshot (262).png;https://shoppersstackv.atlassian.net/secure/attachment/10087/Screenshot+%28262%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000mn:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""Street info"" text field Is Not getting highlighted in red and not displaying proper error message.",SHOP-103,10102,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:37,28-02-2023 15:12,28-02-2023 15:35,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Street info"" text field
+6.Remove the data present
+
+
+
+OBSERVATIONS:
+
+""Street  info"" text field Is Not getting highlighted in red and not displaying proper error message.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:37 PM;63d9e6981b13d42998e12ada;Screenshot (261).png;https://shoppersstackv.atlassian.net/secure/attachment/10086/Screenshot+%28261%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000mf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""House/Office info"" Text Field Is Accepting only spacial characters.",SHOP-102,10101,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:15,28-02-2023 15:13,28-02-2023 15:35,,,0,AccountSettings,"
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""House/Office info"" text field and enter only special characters and check
+
+OBSERVATIONS:
+
+,""House/Office info"" Text Field Is Accepting only special characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:15 PM;63d9e6981b13d42998e12ada;Screenshot (260).png;https://shoppersstackv.atlassian.net/secure/attachment/10085/Screenshot+%28260%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000m7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""House/Office info"" Text Field Is Accepting only space.",SHOP-101,10100,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:11,28-02-2023 15:13,28-02-2023 15:13,,,0,AccountSettings,"
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""House/Office info"" text field and enter only space and check
+
+OBSERVATIONS:
+
+,""House/Office info"" Text Field Is Accepting only space.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:10 PM;63d9e6981b13d42998e12ada;Screenshot (259).png;https://shoppersstackv.atlassian.net/secure/attachment/10084/Screenshot+%28259%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000lz:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""House/Office info"" Text Field Is Accepting 201 Characters.",SHOP-100,10099,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:07,28-02-2023 15:13,28-02-2023 15:13,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""House/Office info"" text field and enter 201 Characters and check
+
+OBSERVATIONS:
+
+""House/Office info"" Text Field Is Accepting 201 Characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:06 PM;63d9e6981b13d42998e12ada;Screenshot (258).png;https://shoppersstackv.atlassian.net/secure/attachment/10083/Screenshot+%28258%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000lr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""House/Office info"" Text Field Is Accepting 2 Characters.",SHOP-99,10098,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 17:05,28-02-2023 15:13,28-02-2023 15:13,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""House/Office info"" text field and enter 2 alphabets and check
+
+OBSERVATIONS:
+
+""House/Office info"" Text Field Is Accepting 2 Characters.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 5:04 PM;63d9e6981b13d42998e12ada;Screenshot (257).png;https://shoppersstackv.atlassian.net/secure/attachment/10082/Screenshot+%28257%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000lj:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,""House/Office info"" text field Is Not getting highlighted in red and not displaying proper error message.",SHOP-98,10097,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 16:42,28-02-2023 15:13,28-02-2023 15:13,,,0,AccountSettings,"User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""House/Office info"" text field
+6.Remove the data present
+
+
+
+OBSERVATIONS:
+
+""House/Office info"" text field Is Not getting highlighted in red and not displaying proper error message.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 4:42 PM;63d9e6981b13d42998e12ada;Screenshot (256).png;https://shoppersstackv.atlassian.net/secure/attachment/10081/Screenshot+%28256%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000lb:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,Name Text Field Is Accepting 21 Alphabets.",SHOP-97,10096,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 16:23,28-02-2023 15:13,28-02-2023 15:13,,,0,AccountSettings,"
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Click on ""Name"" text field and enter 21 alphabets and check
+
+OBSERVATIONS:
+
+Name Text Field Is Accepting 21 Alphabets.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 4:22 PM;63d9e6981b13d42998e12ada;Screenshot (254).png;https://shoppersstackv.atlassian.net/secure/attachment/10080/Screenshot+%28254%29.png,22/Feb/23 4:22 PM;63d9e6981b13d42998e12ada;Screenshot (255).png;https://shoppersstackv.atlassian.net/secure/attachment/10079/Screenshot+%28255%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000l3:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Update Address Page ,When user place cursor on Name Text Field It Is not displaying any tool tip.",SHOP-96,10095,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 16:14,28-02-2023 15:14,28-02-2023 15:14,,,0,AccountSettings,"
+
+User should be Registered and Logged In
+
+URL:
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+pwd: Dinga@1254
+
+STEPS TO REPRODUCE THE DEFECT:
+
+1.Click on  ""Account Settings"" icon
+2.Click on ""My Profile"" Menu/Button
+3.Click on ""My Addresses"" link
+4.Click  on edit icon
+5.Place cursor on ""Name"" text field
+
+OBSERVATIONS:
+
+In Update Address Page ,When user place cursor on Name Text Field It Is not displaying any tool tip.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 4:13 PM;63d9e6981b13d42998e12ada;Screenshot (253).png;https://shoppersstackv.atlassian.net/secure/attachment/10078/Screenshot+%28253%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000kv:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Other Address Type ,Other Text Field It Is Accepting Invalid data.",SHOP-95,10094,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 15:39,28-02-2023 15:14,28-02-2023 15:14,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1.Open the Chrome Browser(Version 110.0.5481.104) and Enter The Test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+2.Click on login Button and Login to the Application
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3.Click on Account settings icon
+
+4.Click on My Profile Menu Button
+
+5.Click on My Addresses Button
+
+6.Click on edit icon 
+
+7.Click on Other radio button in Address Type radio button
+
+8.enter any invalid data into Other Text Field
+
+i/p
+
+asdfgh45621!#$% gg
+
+9.click on Update Address button
+
+
+
+OBSERVATIONS:
+
+Other Text Field It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 3:38 PM;63d9e6981b13d42998e12ada;Screenshot (251).png;https://shoppersstackv.atlassian.net/secure/attachment/10076/Screenshot+%28251%29.png,22/Feb/23 3:38 PM;63d9e6981b13d42998e12ada;Screenshot (252).png;https://shoppersstackv.atlassian.net/secure/attachment/10077/Screenshot+%28252%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000kn:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Other Address Type ,Other Text Field It Is Accepting Special characters.",SHOP-94,10093,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 15:33,28-02-2023 15:14,28-02-2023 15:14,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1.Open the Chrome Browser(Version 110.0.5481.104) and Enter The Test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+2.Click on login Button and Login to the Application
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3.Click on Account settings icon
+
+4.Click on My Profile Menu Button
+
+5.Click on My Addresses Button
+
+6.Click on edit icon 
+
+7.Click on Other radio button in Address Type radio button
+
+8.enter special characters into Other Text Field
+
+8.click on Update Address button
+
+
+
+OBSERVATIONS:
+
+Other Text Field It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 3:33 PM;63d9e6981b13d42998e12ada;Screenshot (250).png;https://shoppersstackv.atlassian.net/secure/attachment/10075/Screenshot+%28250%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000kf:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||Functionality|| In Other Address Type ,Other Text Field It Is Accepting Numbers.",SHOP-93,10092,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 15:29,28-02-2023 15:14,28-02-2023 15:14,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1.Open the Chrome Browser(Version 110.0.5481.104) and Enter The Test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+2.Click on login Button and Login to the Application
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3.Click on Account settings icon
+
+4.Click on My Profile Menu Button
+
+5.Click on My Addresses Button
+
+6.Click on edit icon 
+
+7.Click on Other radio button in Address Type radio button
+
+8.enter numbers into Other Text Field
+
+8.click on Update Address button
+
+
+
+OBSERVATIONS:
+
+Other Text Field It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 3:29 PM;63d9e6981b13d42998e12ada;Screenshot (249).png;https://shoppersstackv.atlassian.net/secure/attachment/10074/Screenshot+%28249%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000k7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyAddresses||Functionality|| If User Try To Update The Address Without Entering Anything into Other Text Field It Is Accepting.,SHOP-91,10090,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 15:13,28-02-2023 15:14,28-02-2023 15:14,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1.Open the Chrome Browser(Version 110.0.5481.104) and Enter The Test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+2.Click on login Button and Login to the Application
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3.Click on Account settings icon
+
+4.Click on My Profile Menu Button
+
+5.Click on My Addresses Button
+
+6.Click on edit icon 
+
+7.Click on Other radio button in Address Type radio button
+
+8.Dont enter anything into Other Text Field
+
+8.click on Update Address button
+
+
+
+OBSERVATIONS:
+
+If User Try To Update The Address Without Entering Anything into Other Text Field It Is Accepting.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 3:13 PM;63d9e6981b13d42998e12ada;Screenshot (248).png;https://shoppersstackv.atlassian.net/secure/attachment/10072/Screenshot+%28248%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000jr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"MyAddresses||UI Issue|| In Update Address Page , Other text field component is broken.",SHOP-90,10089,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 15:08,28-02-2023 15:15,28-02-2023 15:15,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1 Open the chrome browser and Enter the URL [https://shoppersstack.com/my-profile/my-likes|https://shoppersstack.com/my-profile/my-likes|smart-link]
+
+2 Click on login and login as a shopper
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3 Click on Account settings
+
+4 Click on My Profile
+
+5 Click on My Addresses
+
+6 Click on edit Address
+
+7 Click on Other radio button of address type
+
+8. check Other text field
+
+ 
+
+OBSERVATIONS:
+
+Other Text Field is broken",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 3:07 PM;63d9e6981b13d42998e12ada;Screenshot (248).png;https://shoppersstackv.atlassian.net/secure/attachment/10071/Screenshot+%28248%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000jj:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyAddresses||Functionality|| If User Try To Update The Address Without Address Type It Is Accepting.,SHOP-89,10088,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 14:54,28-02-2023 15:15,28-02-2023 15:15,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1.Open the Chrome Browser(Version 110.0.5481.104) and Enter The Test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+2.Click on login Button and Login to the Application
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3.Click on Account settings icon
+
+4.Click on My Profile Menu Button
+
+5.Click on My Addresses Button
+
+6.Click on edit icon 
+
+7.Unselect Address Type radio button
+
+8.click on Update Address button
+
+
+
+OBSERVATIONS:
+
+User is able to update the address without Address type.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 2:54 PM;63d9e6981b13d42998e12ada;Screenshot (246).png;https://shoppersstackv.atlassian.net/secure/attachment/10069/Screenshot+%28246%29.png,22/Feb/23 2:54 PM;63d9e6981b13d42998e12ada;Screenshot (247).png;https://shoppersstackv.atlassian.net/secure/attachment/10070/Screenshot+%28247%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000jb:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyProfile||Integration||When User Edits The Name It Is Not Replicating on Left Devision of The My Profile Page,SHOP-88,10087,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,22-02-2023 12:46,28-02-2023 15:16,28-02-2023 15:15,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1.Open the Chrome Browser and Enter The Test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+2. Click on login Button and Login to the Application
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3.Click on Account settings icon
+
+4.Click on My Profile Menu Button
+
+5.Click on Edit Profile Button and Edit the First Name and Click On Submit Button
+
+
+
+OBSERVATIONS:
+
+Check Name on the Left Devision of the Profile It Is Not Getting Changed.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,22/Feb/23 12:47 PM;63d9e6981b13d42998e12ada;Screenshot (244).png;https://shoppersstackv.atlassian.net/secure/attachment/10067/Screenshot+%28244%29.png,22/Feb/23 12:47 PM;63d9e6981b13d42998e12ada;Screenshot (245).png;https://shoppersstackv.atlassian.net/secure/attachment/10068/Screenshot+%28245%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000j3:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyAddress||UI Issue|| In Update Address page some Alignment issue in pincode textfield,SHOP-86,10085,Bug,To Do,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,17-02-2023 18:06,28-02-2023 15:16,28-02-2023 15:16,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1 Open the chrome browser and Enter the URL [https://shoppersstack.com/my-profile/my-likes|https://shoppersstack.com/my-profile/my-likes|smart-link]
+
+2 Click on login and login as a shopper
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3 Click on Account settings
+
+4 Click on My Profile
+
+5 Click on My Addresses
+
+6 Click on edit Address
+
+7 Check Pincode text field
+
+ 
+
+OBSERVATIONS:
+
+Alignment issue in pincode textfield",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,17/Feb/23 6:06 PM;63d9e6981b13d42998e12ada;Screenshot (243).png;https://shoppersstackv.atlassian.net/secure/attachment/10066/Screenshot+%28243%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000in:,,SHOP Sprint 3,,,,,,,,,"28/Feb/23 11:44 AM;63d9e6981b13d42998e12ada;*About Reopening The Defect*
+
+Since This Defect Is Not Fixed Yet, 
+
+[~accountid:63d89dd98978d7a4353878be] 
+Kindly ReCheck Once and Fix It
+
+_Thank You_",To Do
+"MyAddresses||UI Issue|| In Update Address , Country dropdown component is broken.",SHOP-85,10084,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Low,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,17-02-2023 18:00,28-02-2023 15:16,28-02-2023 15:16,,,0,AccountSettings,"STEPS TO REPRODUCE THE DEFECT:
+
+1 Open the chrome browser and Enter the URL [https://shoppersstack.com/my-profile/my-likes|https://shoppersstack.com/my-profile/my-likes|smart-link]
+
+2 Click on login and login as a shopper
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3 Click on Account settings
+
+4 Click on My Profile
+
+5 Click on My Addresses
+
+6 Click on edit Address
+
+7 Check Country drop down
+
+ 
+
+OBSERVATIONS:
+
+Country dropdown component is broken.",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,17/Feb/23 5:52 PM;63d9e6981b13d42998e12ada;image-20230217-122209.png;https://shoppersstackv.atlassian.net/secure/attachment/10065/image-20230217-122209.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000if:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyProfile||Functionality||User is not able to change First name,SHOP-73,10072,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,16-02-2023 09:54,28-02-2023 15:18,28-02-2023 15:17,,,0,AccountSettings,"Steps To Reproduce Defect:
+
+1 Open the chrome browser (Version 110.0.5481.100)
+
+2 Enter the test URL [https://shoppersstack.com/my-profile/my-profile-info|https://shoppersstack.com/my-profile/my-profile-info|smart-link] 
+
+3 Login to the Application
+
+Email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+4 click on account setting
+
+5 click on my profile
+
+6 click on edit profile
+
+7 change the first name and click on submit
+
+
+
+Observation:
+
+It is not Accepting",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,16/Feb/23 10:19 AM;63d9e6981b13d42998e12ada;6b1b6677-bb5b-49b0-83b7-5d333f45ce02.mp4;https://shoppersstackv.atlassian.net/secure/attachment/10058/6b1b6677-bb5b-49b0-83b7-5d333f45ce02.mp4,16/Feb/23 9:53 AM;63d9e6981b13d42998e12ada;Screenshot (237).png;https://shoppersstackv.atlassian.net/secure/attachment/10057/Screenshot+%28237%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000fr:,,SHOP Sprint 3,,,,,,,,,,In Progress
+MyOrders||Functionality : Product is still displayed in My Orders after Cancelling also,SHOP-42,10041,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,09-02-2023 18:01,28-02-2023 15:24,28-02-2023 15:24,,,0,AccountSettings,"Test Data:
+
+one product should be thare in MY ORDERS
+
+
+
+Steps To Reproduce The Defect:
+
+1 Open the Chrome browser (Version 110.0.5481.78) and Enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Login as a Shopper
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3 click on profile
+
+4 click on my orders
+
+5 click on cancel the order
+
+
+
+Observation:
+
+Product is still displayed in My Orders after Cancelling also",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,09/Feb/23 6:00 PM;63d9e6981b13d42998e12ada;Screenshot (219).png;https://shoppersstackv.atlassian.net/secure/attachment/10023/Screenshot+%28219%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0008v:,,SHOP Sprint 3,,,,,,,,,,In Progress
+"Invoice||UI Issue : When user Generates The Invoice , In Invoice Application Name Is Displaying As Firelawn",SHOP-41,10040,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,09-02-2023 17:39,28-02-2023 15:25,28-02-2023 15:25,,,0,AccountSettings,"Test Data:
+
+one product should be thare in MY ORDERS
+
+
+
+Steps To Reproduce The Defect:
+
+1 Open the Chrome browser (Version 110.0.5481.78) and Enter the Test URL [https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 Login as a Shopper
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+3 click on profile
+
+4 click on my orders
+
+5 click on Invoice
+
+6 Invoice will get downloaded
+
+7 Open the Invoice
+
+Observation:
+
+In Invoice Application Name Is Displaying As Firelawn",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,09/Feb/23 5:38 PM;63d9e6981b13d42998e12ada;Screenshot (218).png;https://shoppersstackv.atlassian.net/secure/attachment/10022/Screenshot+%28218%29.png,,,,,,,,,,,,,,,,0|i0008n:,,SHOP Sprint 3,,,,,,,,,,In Progress

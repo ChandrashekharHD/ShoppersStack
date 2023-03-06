@@ -1,0 +1,77 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Status Category
+Compare||Functionality|| Flipkart page is not getting Loaded.,SHOP-71,10070,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,15-02-2023 13:05,28-02-2023 15:20,28-02-2023 15:18,,,0,Electronics,"User should be logged in
+
+email: [dinga01@gmail.com|mailto:dinga01@gmail.com]
+
+pwd: Dinga@1254
+
+
+
+Steps To Reproduce The Defect:
+
+# Open the chrome Browser.
+# Enter the test URL [https://shoppersstack.com/products_page/115|https://shoppersstack.com/products_page/115|smart-link] .
+3.click on electronic tab                                                                                                                            4.select a product tile and click on that
+5.click on compare icon
+
+Observations:
+
+Flipkart page is not getting loaded
+
+NOTE:
+
+It is an INCONSISTENT DEFECT",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,15/Feb/23 1:03 PM;63d9e6981b13d42998e12ada;Screenshot (236).png;https://shoppersstackv.atlassian.net/secure/attachment/10054/Screenshot+%28236%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000fb:,,SHOP Sprint 3,,,,,,,,,,In Progress
+CART||Functionality:sometimes user is not able to add the products in to cart.,SHOP-21,10020,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,02-02-2023 10:42,28-02-2023 15:28,28-02-2023 15:27,,,0,Electronics,"steps to reproduce the defect:
+
+1 open the chrome browser(109.0.5414.120) and enter the test URL
+
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link]
+
+2 login as a shopper
+
+email: [chandushwetha01@gmail.com|mailto:chandushwetha01@gmail.com]
+
+pwd: Shopper@1254
+
+3 select a product and go to product description page
+
+4 click on “add product to cart”
+
+observation:
+
+user is not able to add the product into cart 
+
+it is throwing error message
+
+
+
+NOTE: it is an INCONSISTENT defect",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,02/Feb/23 10:41 AM;63d9e6981b13d42998e12ada;Screenshot (135).png;https://shoppersstackv.atlassian.net/secure/attachment/10007/Screenshot+%28135%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0004f:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Cart||Functionality:in cart page user is not able to increse the product quantity by 1st attempt,SHOP-18,10017,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Medium,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,02-02-2023 10:14,28-02-2023 15:29,28-02-2023 15:29,,,0,Electronics,"steps to reproduce the defect:
+
+1 open the chrome browser(109.0.5414.120) and enter the test URL 
+
+[https://shoppersstack.com/|https://shoppersstack.com/|smart-link] 
+
+2 login as a shopper
+
+[email:chandushwetha01@gmail.com|mailto:email:chandushwetha01@gmail.com]
+
+pwd: Shopper@1254
+
+3 add a product to cart
+
+4 goto cart
+
+5 increse the quantity of the product by clicking on +
+
+observation:
+
+user is not able to increse the product quantity by 1st attempt",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,02/Feb/23 10:14 AM;63d9e6981b13d42998e12ada;Screenshot (200).png;https://shoppersstackv.atlassian.net/secure/attachment/10003/Screenshot+%28200%29.png,,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i0003r:,,SHOP Sprint 3,,,,,,,,,,In Progress
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

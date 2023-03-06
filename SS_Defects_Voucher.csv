@@ -1,0 +1,65 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field ([CHART] Date of First Response),Comment,Status Category
+Voucher||Functionality||Not Able To Generate Coupon,SHOP-50,10049,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,Highest,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,11-02-2023 13:51,28-02-2023 15:24,28-02-2023 15:24,,,0,Voucher,"Steps To Reproduce Defect:
+
+1 open the chrome browser (Version 110.0.5481.78) and enter the Test URL [https://voucher.shoppersstack.com/|https://voucher.shoppersstack.com/|smart-link] 
+
+2 click on [Voucher|https://voucher.shoppersstack.com/] 
+
+3 enter valid email and  password into respective text filelds
+
+email: [admin@gmail.com|mailto:aaaabbbb@gmail.com]
+
+pwd: Admin@1254
+
+4 click on Login Button
+
+5 enter valid data for all the fields and click on Generate button
+
+Observations:
+
+Not Able To Generate Coupon",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,11/Feb/23 1:50 PM;63d9e6981b13d42998e12ada;Screenshot (225).png;https://shoppersstackv.atlassian.net/secure/attachment/10032/Screenshot+%28225%29.png,,,,,,,,,,,,,,,,0|i000an:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Voucher||Functionality||Password text field is accepting invalid Password also,SHOP-49,10048,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,11-02-2023 13:43,14-02-2023 17:20,28-02-2023 15:24,,,0,Voucher,"Steps To Reproduce Defect:
+
+1 open the chrome browser (Version 110.0.5481.78) and enter the Test URL [https://voucher.shoppersstack.com/|https://voucher.shoppersstack.com/|smart-link] 
+
+2 click on [Voucher|https://voucher.shoppersstack.com/] 
+
+3 enter anything into password text fileld
+
+email: [aaaabbbb@gmail.com|mailto:aaaabbbb@gmail.com]
+
+pwd: 123sdcaf
+
+4 click on Login Button
+
+Observations:
+
+Password text field is accepting invalid Password also",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,11/Feb/23 1:43 PM;63d9e6981b13d42998e12ada;Screenshot (223).png;https://shoppersstackv.atlassian.net/secure/attachment/10030/Screenshot+%28223%29.png,11/Feb/23 1:43 PM;63d9e6981b13d42998e12ada;Screenshot (224).png;https://shoppersstackv.atlassian.net/secure/attachment/10031/Screenshot+%28224%29.png,,,,,,,,,,,,,,,0|i000af:,,SHOP Sprint 3,,,,,,,,,,In Progress
+Voucher||Functionality||email text field is accepting invalid mail id also,SHOP-48,10047,Bug,In Progress,SHOP,Shoppersstack,software,shoppers stack,63d9e3e7a5d0c82630693301,,High,,TYSSSeniorDeveloper,63d89dd98978d7a4353878be,Chandrashekhar H D,63d9e6981b13d42998e12ada,Chandrashekhar H D,63d9e6981b13d42998e12ada,11-02-2023 13:41,14-02-2023 17:19,28-02-2023 15:24,,,0,Voucher,"Steps To Reproduce Defect:
+
+1 open the chrome browser (Version 110.0.5481.78) and enter the Test URL [https://voucher.shoppersstack.com/|https://voucher.shoppersstack.com/|smart-link] 
+
+2 click on [Voucher|https://voucher.shoppersstack.com/] 
+
+3 enter any mail id
+
+email: [aaaabbbb@gmail.com|mailto:aaaabbbb@gmail.com]
+
+pwd: Dinga@1254
+
+4 click on Login Button
+
+Observations:
+
+email text field is accepting invalid mail id also",,Chandrashekhar H D,63d9e6981b13d42998e12ada,,,,,,,,,,,,,11/Feb/23 1:40 PM;63d9e6981b13d42998e12ada;Screenshot (223).png;https://shoppersstackv.atlassian.net/secure/attachment/10029/Screenshot+%28223%29.png,11/Feb/23 1:40 PM;63d9e6981b13d42998e12ada;Screenshot (224).png;https://shoppersstackv.atlassian.net/secure/attachment/10028/Screenshot+%28224%29.png,,,,,,,,,SHOP-1,"To work on the following stories Registration, Login, Men, Women, Kids, Electronics, Beauty, Account settings.",,,,,0|i000a7:,,SHOP Sprint 3,,,,,,,,,,In Progress
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
